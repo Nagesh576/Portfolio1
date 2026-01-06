@@ -14,7 +14,6 @@ This project highlights my academic background and practical experience as a **B
 
 ## 📸 Project Preview
 
-![Portfolio Screenshot](./screenshot.png)
 
 <img width="1808" height="869" alt="Screenshot 2026-01-06 094832" src="https://github.com/user-attachments/assets/339f31ad-9892-4397-bdae-65d97f7c2d75" />
 
